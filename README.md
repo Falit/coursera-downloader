@@ -1,9 +1,9 @@
 # coursera-downloader
 Downloading all lectures :  videos, PPTs and PDFs of coursera course
 #Features
-Download the Coursera Lectures in any form
-1. Video with/without subtitles
-2. PDFs
+Download the Coursera Lectures in any form<br>
+1. Video with/without subtitles <br>
+2. PDFs <br>
 3. PPTs
 #Steps to use
 1. Set your current directory to the folder where you want to save the dowloaded files.
