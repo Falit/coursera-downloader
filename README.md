@@ -1,11 +1,11 @@
-### coursera-downloader
+# coursera-downloader
 Downloading all lectures :  videos, PPTs and PDFs of coursera course
-#Features
+##Features
 Download the Coursera Lectures in any form<br>
 1. Video with/without subtitles <br>
 2. PDFs <br>
 3. PPTs
-#Steps to use
+##Steps to use
 1. Set your current directory to the folder where you want to save the dowloaded files.
 2. Run the bash script in terminal using command : 
   bash coursera.bash
