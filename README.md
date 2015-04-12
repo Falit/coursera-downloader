@@ -1,4 +1,4 @@
-# coursera-downloader
+### coursera-downloader
 Downloading all lectures :  videos, PPTs and PDFs of coursera course
 #Features
 Download the Coursera Lectures in any form<br>
